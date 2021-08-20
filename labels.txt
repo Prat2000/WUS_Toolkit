@@ -1,0 +1,6 @@
+efficientdet_d1_coco17_tpu-32
+""
+https://drive.google.com/file/d/1E8TwcJs_7976QuhUdV8tzqShYwzS3PA0/view?usp=sharing
+Car_Engine
+http://download.tensorflow.org/models/object_detection/tf2/20200711/efficientdet_d1_coco17_tpu-32.tar.gz
+efficientdet_d1_coco17_tpu-32

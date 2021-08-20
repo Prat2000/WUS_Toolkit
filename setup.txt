@@ -1,0 +1,2 @@
+efficientdet_d1_coco17_tpu-32
+""

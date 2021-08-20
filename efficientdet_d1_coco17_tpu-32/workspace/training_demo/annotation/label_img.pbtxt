@@ -1,0 +1,44 @@
+item {
+    id: 1
+    name: 'Fuse Box'
+}
+item {
+    id: 2
+    name: 'Battery'
+}
+item {
+    id: 3
+    name: 'Radiator Cap'
+}
+item {
+    id: 4
+    name: 'Oil Dipstick'
+}
+item {
+    id: 5
+    name: 'Brake Fluid Tank'
+}
+item {
+    id: 6
+    name: 'AC pipe'
+}
+item {
+    id: 7
+    name: 'Air Intake Hose'
+}
+item {
+    id: 8
+    name: 'Engine Oil Storage'
+}
+item {
+    id: 9
+    name: 'Spark Plug'
+}
+item {
+    id: 10
+    name: 'Windshield Water Storage'
+}
+item {
+    id: 11
+    name: 'Air Filter'
+}
